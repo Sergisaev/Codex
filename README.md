@@ -6,15 +6,15 @@
 ## Посмотреть и поделиться
 
 Макет уже доступен на телефоне и компьютере:
-**https://sergisaev.github.io/Codex/**.
+**https://sergisaev.github.io/VisaMB/**.
 
 Для повторной настройки GitHub Pages в этом репозитории:
 
-1. Откройте [Settings → Pages](https://github.com/Sergisaev/Codex/settings/pages).
+1. Откройте [Settings → Pages](https://github.com/Sergisaev/VisaMB/settings/pages).
 2. В разделе **Build and deployment** выберите **Deploy from a branch**.
 3. Выберите ветку **main**, папку **/ (root)** и нажмите **Save**.
 4. Дождитесь успешной сборки Pages. Адрес сайта после включения:
-   **https://sergisaev.github.io/Codex/**.
+   **https://sergisaev.github.io/VisaMB/**.
 
 Наличие файлов в репозитории само по себе не означает, что Pages уже включён.
 Доступность Pages для закрытого репозитория зависит от тарифа GitHub;
